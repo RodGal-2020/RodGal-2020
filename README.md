@@ -7,4 +7,5 @@ Hello there!
 
 ## Other interesting things
 
+* [My other account](https://github.com/Xopre)
 * [Dado Plateado's website](https://dadoplateado.wordpress.com/)
