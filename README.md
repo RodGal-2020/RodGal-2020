@@ -28,5 +28,5 @@ Hello there! I'm José Antonio, also known as Xopre, a computer science student 
 
 ## Other interesting things
 
-* [My other account](https://github.com/Xopre)
+* [My other account, with less serious repositories](https://github.com/Xopre)
 * [The board game associacion in which I work](https://dadoplateado.wordpress.com/)
