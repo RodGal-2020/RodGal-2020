@@ -17,9 +17,9 @@ Hello there! I'm José Antonio, also known as Xopre, a computer science student 
 ## Projects
 
 * [TAL-IA project for Sign Language and AI](https://github.com/TAL-IA)
-* [`video_augmentation` package](https://github.com/RodGal-2020/video_augmentation)
-* [RAPS: R Aid for P Systems](https://github.com/Xopre/RAPS)
-* [PSystems-Examples](https://github.com/Xopre/psystems-examples)
+* [The `video_augmentation` package](https://github.com/RodGal-2020/video_augmentation)
+* [The `RAPS` (R Aid for P Systems) package](https://github.com/Xopre/RAPS)
+* [The `PSystems-Examples` repository](https://github.com/Xopre/psystems-examples)
 
 ## Published documents
 
