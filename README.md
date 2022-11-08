@@ -1,5 +1,5 @@
 ## About me
-Hello there! I'm José Antonio, also known as Xopre, a matematician and statistic currently finishing the [master's thesis](https://xopre.github.io/RAPS/) as part of the [master in artificial intelligence](http://www.cs.us.es/blogs/mulcia/) at the Universidad de Sevilla. At the same time I'm working in the [TAL.IA project](https://github.com/TAL-IA), focused on Sign Languages and AI, using data augmentation and deepfakes in order to attack the data scarcity problem. Right now I'm getting ready to become a predoctoral fellow in the short-term, focusing my thesis on Explainable Artificial Intelligence (XAI).
+Hello there! I'm José Antonio, also known as Xopre, a matematician and statistician currently finishing the [master's thesis](https://xopre.github.io/RAPS/) as part of the [master in artificial intelligence](http://www.cs.us.es/blogs/mulcia/) at the Universidad de Sevilla. At the same time I'm working in the [TAL.IA project](https://github.com/TAL-IA), focused on Sign Languages and AI, using data augmentation and deepfakes in order to attack the data scarcity problem. Right now I'm getting ready to become a predoctoral fellow in the short-term, focusing my thesis on Explainable Artificial Intelligence (XAI).
 
 ## Interests
 
