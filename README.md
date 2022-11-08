@@ -1,5 +1,5 @@
 ## About me
-Hello there! I'm José Antonio, also known as Xopre, a computer science student at the Universidad de Sevilla, finishing the master MULCIA and getting ready to become a predoctoral fellow, focusing my thesis on Explainable Artificial Intelligence (XAI).
+Hello there! I'm José Antonio, also known as Xopre, a matematician and statistic currently finishing a master in artificial intelligence at the Universidad de Sevilla. At the same time I'm working in the [TAL.IA project](https://github.com/TAL-IA), focused on Sign Languages and AI, getting ready to become a predoctoral fellow in the short-term, focusing my thesis on Explainable Artificial Intelligence (XAI).
 
 ## Interests
 
