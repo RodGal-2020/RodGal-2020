@@ -23,10 +23,11 @@ Hello there! I'm José Antonio, also known as Xopre, a matematician and statisti
 
 ## Published documents
 
-* [My End of Degree's Work](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=0-2C5HEAAAAJ&citation_for_view=0-2C5HEAAAAJ:u5HHmVD_uO8C)
+* [My master's thesis](https://xopre.github.io/RAPS/) (to be published)
+* [My end of degree's Work](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=0-2C5HEAAAAJ&citation_for_view=0-2C5HEAAAAJ:u5HHmVD_uO8C)
 * [On its way...](https://github.com/TAL-IA)
 
 ## Other interesting things
 
-* [My other account, with less serious repositories](https://github.com/Xopre)
+* [My other account](https://github.com/Xopre)
 * [The board game associacion in which I work](https://dadoplateado.wordpress.com/)
