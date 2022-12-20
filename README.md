@@ -18,8 +18,8 @@ Hello there! I'm José Antonio, also known as Xopre, a matematician and statisti
 
 * [TAL-IA project for Sign Language and AI](https://github.com/TAL-IA)
 * [The `video_augmentation` package](https://rodgal-2020.github.io/video_augmentation/)
-* [The `RAPS` (R Aid for P Systems) package](https://xopre.github.io/RAPS/)
-* [The `PSystems-Examples` repository](https://github.com/Xopre/psystems-examples)
+* [The `RAPS` (R Aid for P Systems) package](https://github.com/RodGal-2020/RAPS)
+* [The `PSystems-Examples` repository](https://github.com/RodGal-2020/psystems-examples)
 
 ## Published documents
 
